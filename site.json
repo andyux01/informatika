@@ -117,14 +117,13 @@
             "order": 0,
             "parent": "item-6b6806ab-721a-4b12-a065-07916e301efe",
             "title": "Page",
-            "description": "",
+            "description": "Select content to load",
             "metadata": {
                 "created": 1717650297,
-                "updated": 1717685017,
+                "updated": 1717685139,
                 "images": [],
                 "videos": [],
                 "published": true,
-                "pageType": "activity",
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 1

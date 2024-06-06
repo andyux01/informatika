@@ -149,14 +149,15 @@ bottom-text="...probably"
   <entry>
     <title>Page</title>
     <id>item-b649092c-471b-425d-ab21-458d2fb35211</id>
-    <updated>2024-06-06T14:43:37+00:00</updated>
+    <updated>2024-06-06T14:45:39+00:00</updated>
     <published>2024-06-06T05:04:57+00:00</published>
-    <summary></summary>
+    <summary>Select content to load</summary>
     <link href="welcome/page/page"/>
     
     <content type="html">
       <![CDATA[ 
 <p></p>
+<site-remote-content show-title element-visible loading uuid="item-78f97024-eb3a-4894-a3a0-cbb1b6c4e9f8"><div>Select content to load</div></site-remote-content>
  ]]>
     </content>
   </entry>
