@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>informatika</title>
   <link href="" rel="self" />
-  <subtitle></subtitle>
+  <subtitle>own course</subtitle>
   <updated>2024-06-06T05:02:18+00:00</updated>
   <author>
       <name></name>
@@ -51,6 +51,18 @@ bottom-text="...probably"
     <li><a href="https://bit.ly/hax-discord" target="_blank">Join the HAX community</a></li>
     <li><a href="https://github.com/elmsln/issues/issues/new?assignees=&labels=POP&template=issue-report.md&title=User%20report%20from%20HAX%20welcome%20page" target="_blank">Post an issue in our issue queue</a></li>
 </ul> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Page</title>
+    <id>item-6b6806ab-721a-4b12-a065-07916e301efe</id>
+    <updated>2024-06-06T05:04:45+00:00</updated>
+    <published>2024-06-06T05:04:45+00:00</published>
+    <summary></summary>
+    <link href="welcome/page"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
     </content>
   </entry>
 </feed>

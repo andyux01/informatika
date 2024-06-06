@@ -43,36 +43,40 @@ var precacheConfig = [
         "1vYuxvfMu9chsTUrjCgTA"
     ],
     [
+        "pages\/item-6b6806ab-721a-4b12-a065-07916e301efe\/index.html",
+        "tL1NZE4nr8oLv4U8O521Gw"
+    ],
+    [
         "index.html",
         "Uhiu1HgkBrIYO80CRafA"
     ],
     [
-        "assets\/icon-512x512.png",
-        "ZYrkSdlgQTZG1DvtVFLK6A"
+        "files\/haxcms-managed\/512x512-banner.png",
+        "6TSLt3QdxbCPKvRj1DhOA"
     ],
     [
-        "assets\/icon-256x256.png",
-        "SOt4RZVJrbWYbTYdcfNyQ"
+        "files\/haxcms-managed\/256x256-banner.png",
+        "eN0T7NtzErmcA09IHwAg"
     ],
     [
-        "assets\/icon-192x192.png",
-        "6WjdttSLJCugbfbOFmy2YQ"
+        "files\/haxcms-managed\/192x192-banner.png",
+        "FkMXqiKNDc8dXnpsM4vg"
     ],
     [
-        "assets\/icon-144x144.png",
-        "T0P0qdAiRNfy4wOgSyzQ"
+        "files\/haxcms-managed\/144x144-banner.png",
+        "657XUXOIaS1DsoHKtyKi9w"
     ],
     [
-        "assets\/icon-96x96.png",
-        "IrEXYqYqp2R0A0KS3BzA"
+        "files\/haxcms-managed\/96x96-banner.png",
+        "5ha6S41iCbfwRYjA12nAIA"
     ],
     [
-        "assets\/icon-72x72.png",
-        "yxOTiyT3IXcFoYFvbaUGw"
+        "files\/haxcms-managed\/72x72-banner.png",
+        "fhdjnP1h7y0QLMVNoOPqPQ"
     ],
     [
-        "assets\/icon-48x48.png",
-        "GUGW1VyMsNLAaLQsLsPgg"
+        "files\/haxcms-managed\/48x48-banner.png",
+        "0K3lds0anK2jyRCUgoaCQ"
     ],
     [
         "manifest.json",
@@ -80,7 +84,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "AoCEd0F1p4E8sIj70t1IyA"
+        "Y8e6YHrnkoYHI9OCqavQ"
     ],
     [
         "404.html",

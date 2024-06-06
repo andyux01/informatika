@@ -3,9 +3,9 @@
   <channel>
     <title>informatika</title>
     <link></link>
-    <description></description>
+    <description>own course</description>
     <copyright>Copyright (C) 2024 </copyright>
-    <language>en</language>
+    <language>en-US</language>
     <lastBuildDate>Thu, 06 Jun 2024 05:02:18 +0000</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
     <item>
@@ -50,6 +50,16 @@ bottom-text="...probably"
       <category></category>
       <guid>item-9f79442c-019d-464a-86a3-60bae4c01848</guid>
       <pubDate>Thu, 06 Jun 2024 05:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Page</title>
+      <link>welcome/page</link>
+      <description>
+          <![CDATA[ <p></p> ]]>
+      </description>
+      <category></category>
+      <guid>item-6b6806ab-721a-4b12-a065-07916e301efe</guid>
+      <pubDate>Thu, 06 Jun 2024 05:04:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
