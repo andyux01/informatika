@@ -5,31 +5,48 @@
     "description": "own course",
     "license": "by-sa",
     "metadata": {
-        "author": {},
+        "author": {
+            "image": "",
+            "name": "",
+            "email": "",
+            "socialLink": ""
+        },
         "site": {
             "name": "informatika",
             "logo": "assets\/banner.jpg",
             "settings": {
                 "lang": "en-US",
-                "publishPagesOn": true
+                "publishPagesOn": true,
+                "pathauto": false,
+                "sw": false,
+                "forceUpgrade": false,
+                "gaID": ""
             },
             "created": 1717650138,
-            "updated": 1717650138,
+            "updated": 1717683123,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
-            }
+            },
+            "version": "9.0.0-alpha.0",
+            "domain": "",
+            "tags": "",
+            "static": {}
         },
         "theme": {
-            "element": "clean-one",
-            "path": "@haxtheweb\/clean-one\/clean-one.js",
-            "name": "Clean course theme",
-            "thumbnail": "build\/es6\/node_modules\/@haxtheweb\/app-hax\/lib\/assets\/images\/BlueStyle.svg",
+            "element": "polaris-invent-theme",
+            "path": "@haxtheweb\/polaris-theme\/lib\/polaris-invent-theme.js",
+            "name": "Polaris - Invent",
+            "thumbnail": "build\/es6\/node_modules\/@haxtheweb\/app-hax\/lib\/assets\/images\/PartyStyle.svg",
             "variables": {
-                "icon": "av:fiber-manual-record",
+                "image": "",
+                "imageAlt": "",
+                "imageLink": "",
                 "hexCode": "#aeff00",
-                "cssVariable": "--simple-colors-default-theme-light-blue-7"
-            }
+                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
+                "icon": "av:fiber-manual-record"
+            },
+            "regions": {}
         },
         "node": {
             "fields": {}
