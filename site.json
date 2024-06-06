@@ -83,7 +83,7 @@
             "description": "halamanBy the end of this lesson, you should be able to...\t\t\t\t\t\tone\t\t\ttwo\t\t\t\t\t\t\tthree\t\t\tfour\t\t\tWhat is strawberry in SpanishfresaHow large can the average great white shark grow to be",
             "metadata": {
                 "created": 1717650285,
-                "updated": 1717684133,
+                "updated": 1717684678,
                 "images": [
                     "https:\/\/dummyimage.com\/300x200\/000\/fff"
                 ],
@@ -92,9 +92,12 @@
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 1,
-                "pageType": "discuss",
+                "pageType": "lesson",
                 "relatedItems": "item-21a2545a-cc0a-4bf9-b30f-004c22db6547",
-                "tags": "ok"
+                "tags": "ok",
+                "image": "https:\/\/cdn2.thecatapi.com\/images\/bjj.jpg",
+                "accentColor": "deep-orange",
+                "icon": "courseicons:strategy"
             }
         },
         {

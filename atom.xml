@@ -56,7 +56,7 @@ bottom-text="...probably"
   <entry>
     <title>What is HAX?</title>
     <id>item-6b6806ab-721a-4b12-a065-07916e301efe</id>
-    <updated>2024-06-06T14:28:53+00:00</updated>
+    <updated>2024-06-06T14:37:58+00:00</updated>
     <published>2024-06-06T05:04:45+00:00</published>
     <summary>halamanBy the end of this lesson, you should be able to...						one			two							three			four			What is strawberry in SpanishfresaHow large can the average great white shark grow to be</summary>
     <link href="welcome/page"/>
@@ -76,9 +76,11 @@ bottom-text="...probably"
 
 
 
+
 </collection-list>
-<site-collection-list accent-color="grey" responsive-size="lg" published="" limit="8" sort="title" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}"></site-collection-list>
+<site-collection-list accent-color="grey" responsive-size="lg" published="" limit="8" sort="title" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" edit-mode></site-collection-list>
 <page-section preset="antihero" filter full fold scroller accent-color="blue" image="https://8080-andyux01-haxcms-716n8hoegp6.ws-us114.gitpod.io/sites/informatika/build/es6/node_modules/@haxtheweb/page-section/lib/assets/geo-bkg.png" buttons="Really sharp" scroller-label="Scroll to reveal content" bg="var(--ddd-theme-default-limestoneLight)"><h2>Sharp looking section</h2><hr><p>This is some sharp looking, well presented content</p><simple-cta hotline filled="" outlined="" slot="buttons" accent-color="grey" remote-link-target="{}" icon="icons:chevron-right">Really sharp</simple-cta>
+
 
 
 
@@ -102,7 +104,9 @@ bottom-text="...probably"
 
 
 
+
 </grid-plate>
+
 
 
 
@@ -110,7 +114,9 @@ bottom-text="...probably"
 
 
 
+
 <simple-tags tags="tag1, tag2, tag3" auto-accent-color slot="col-2" data-padding="xs"></simple-tags>
+
 
 
 
@@ -118,7 +124,9 @@ bottom-text="...probably"
 
 
 
+
 <image-compare-slider opacity top-src="https://images-assets.nasa.gov/image/jsc2018e049988/jsc2018e049988~thumb.jpg" top-alt="jhjhjh" bottom-src="https://cdn2.thecatapi.com/images/9j5.jpg" bottom-alt="" slot="col-2" accent-color="grey" resource="#5c605757-831a-78d3-062e-3b91e7c63ebb" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible position="50" t="{&quot;slideToCompareImages&quot;:&quot;Slide to compare images&quot;}"></image-compare-slider>
+
 
 
 
@@ -126,9 +134,10 @@ bottom-text="...probably"
 
 
 
+
 </grid-plate>
-<rpg-character seed="haxtheweb" hat="random" accent-color="orange" height="142" width="113" accessories="9" base="0" face="1" face-item="8" hair="2" pants="2" shirt="0" skin="8" hat-color="0" speed="500" reduce-motion></rpg-character>
 <rpg-character seed="haxtheweb" hat="random" accent-color="orange" height="142" width="113" accessories="9" base="0" face="1" face-item="8" hair="2" pants="2" shirt="0" skin="8" hat-color="0" speed="500" reduce-motion leg="R"></rpg-character>
+<rpg-character seed="haxtheweb" hat="random" accent-color="orange" height="142" width="113" accessories="9" base="0" face="1" face-item="8" hair="2" pants="2" shirt="0" skin="8" hat-color="0" speed="500" reduce-motion leg="L"></rpg-character>
 <rpg-character seed="haxtheweb" hat="random" accent-color="orange" height="142" width="113" accessories="9" base="0" face="1" face-item="8" hair="2" pants="2" shirt="0" skin="8" hat-color="0" leg="R" speed="500" reduce-motion></rpg-character>
 <rpg-character accent-color="orange" accessories="9" height="142" width="113" base="0" face="1" face-item="8" hair="2" pants="2" shirt="0" skin="8" hat-color="0" hat="cowboy" leg="R" seed="haxtheweb" speed="500" reduce-motion data-padding="xl"></rpg-character>
 <media-image source="https://dummyimage.com/300x200/000/fff" card citation="This is my citation." accent-color="grey" size="wide" offset="none"></media-image>
