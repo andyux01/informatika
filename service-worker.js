@@ -48,11 +48,15 @@ var precacheConfig = [
     ],
     [
         "pages\/item-b649092c-471b-425d-ab21-458d2fb35211\/index.html",
-        "Xj6Sj0Q7cnVYAztrCCEWw"
+        "CrcM4WIYUJYCyl9ARoGtw"
     ],
     [
         "pages\/item-ca67bdf3-862c-455b-8880-0dde19dfd164\/index.html",
         "ynQoLli9TUWFixVqrSQIg"
+    ],
+    [
+        "pages\/item-78f97024-eb3a-4894-a3a0-cbb1b6c4e9f8\/index.html",
+        "v64qt0pTMDRhZDGkwftGjg"
     ],
     [
         "pages\/item-21a2545a-cc0a-4bf9-b30f-004c22db6547\/index.html",
@@ -96,7 +100,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "Ys24iuWLqUeSZdVduxqDw"
+        "lc9CNuunZpVQz5F3CHyvA"
     ],
     [
         "404.html",

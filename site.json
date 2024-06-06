@@ -114,15 +114,20 @@
             "indent": 0,
             "location": "pages\/item-b649092c-471b-425d-ab21-458d2fb35211\/index.html",
             "slug": "welcome\/page\/page",
-            "order": "0",
+            "order": 0,
             "parent": "item-6b6806ab-721a-4b12-a065-07916e301efe",
             "title": "Page",
             "description": "",
             "metadata": {
                 "created": 1717650297,
-                "updated": 1717650297,
+                "updated": 1717685017,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "pageType": "activity",
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
