@@ -96,11 +96,15 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "dEdb2OSpKyTg0HISa00M5A"
+        "Ys24iuWLqUeSZdVduxqDw"
     ],
     [
         "404.html",
         "0BBVAns5rLQLPevl6LRa9A"
+    ],
+    [
+        "files\/386096440.jpg",
+        "te6AxcpDesWzZrtRv25Ow"
     ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

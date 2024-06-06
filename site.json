@@ -97,7 +97,16 @@
                 "tags": "ok",
                 "image": "https:\/\/cdn2.thecatapi.com\/images\/bjj.jpg",
                 "accentColor": "deep-orange",
-                "icon": "courseicons:strategy"
+                "icon": "courseicons:strategy",
+                "files": [
+                    {
+                        "fullUrl": "\/sites\/informatika\/files\/386096440.jpg",
+                        "url": "files\/386096440.jpg",
+                        "type": "image\/jpeg",
+                        "name": "386096440.jpg",
+                        "size": 3886
+                    }
+                ]
             }
         },
         {
