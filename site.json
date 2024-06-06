@@ -134,15 +134,29 @@
             "indent": 0,
             "location": "pages\/item-21a2545a-cc0a-4bf9-b30f-004c22db6547\/index.html",
             "slug": "welcome\/page-1",
-            "order": "1",
+            "order": 1,
             "parent": "item-9f79442c-019d-464a-86a3-60bae4c01848",
-            "title": "Page",
-            "description": "",
+            "title": "Tutorials",
+            "description": "ini adalah tutorial",
             "metadata": {
                 "created": 1717650305,
-                "updated": 1717650305,
+                "updated": 1717684215,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "theme": {
+                    "element": "training-theme",
+                    "path": "@haxtheweb\/training-theme\/training-theme.js",
+                    "name": "Training theme",
+                    "thumbnail": "build\/es6\/node_modules\/@haxtheweb\/app-hax\/lib\/assets\/images\/PartyStyle.svg",
+                    "key": "training-theme"
+                },
+                "published": true,
+                "hideInMenu": false,
+                "tags": "tutorial",
+                "accentColor": "grey",
+                "icon": "av:airplay",
+                "locked": false,
+                "readtime": 1
             }
         }
     ]

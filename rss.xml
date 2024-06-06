@@ -154,12 +154,14 @@ bottom-text="...probably"
       <pubDate>Thu, 06 Jun 2024 05:05:02 +0000</pubDate>
     </item>
     <item>
-      <title>Page</title>
+      <title>Tutorials</title>
       <link>welcome/page-1</link>
       <description>
-          <![CDATA[ <p></p> ]]>
+          <![CDATA[ 
+<p></p>
+ ]]>
       </description>
-      <category></category>
+      <category>tutorial</category>
       <guid>item-21a2545a-cc0a-4bf9-b30f-004c22db6547</guid>
       <pubDate>Thu, 06 Jun 2024 05:05:05 +0000</pubDate>
     </item>

@@ -162,15 +162,17 @@ bottom-text="...probably"
     </content>
   </entry>
   <entry>
-    <title>Page</title>
+    <title>Tutorials</title>
     <id>item-21a2545a-cc0a-4bf9-b30f-004c22db6547</id>
-    <updated>2024-06-06T05:05:05+00:00</updated>
+    <updated>2024-06-06T14:30:15+00:00</updated>
     <published>2024-06-06T05:05:05+00:00</published>
-    <summary></summary>
+    <summary>ini adalah tutorial</summary>
     <link href="welcome/page-1"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ 
+<p></p>
+ ]]>
     </content>
   </entry>
 </feed>
