@@ -54,7 +54,22 @@
                 "created": 1717650138,
                 "updated": 1717650138
             }
+        },
+        {
+            "id": "item-6b6806ab-721a-4b12-a065-07916e301efe",
+            "indent": 0,
+            "location": "pages\/item-6b6806ab-721a-4b12-a065-07916e301efe\/index.html",
+            "slug": "welcome\/page",
+            "order": "0",
+            "parent": "item-9f79442c-019d-464a-86a3-60bae4c01848",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1717650285,
+                "updated": 1717650285,
+                "images": [],
+                "videos": []
+            }
         }
-    ],
-    "location": "\/sites\/informatika\/index.html"
+    ]
 }
