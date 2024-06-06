@@ -65,4 +65,16 @@ bottom-text="...probably"
       <![CDATA[ <p></p> ]]>
     </content>
   </entry>
+  <entry>
+    <title>Page</title>
+    <id>item-b649092c-471b-425d-ab21-458d2fb35211</id>
+    <updated>2024-06-06T05:04:57+00:00</updated>
+    <published>2024-06-06T05:04:57+00:00</published>
+    <summary></summary>
+    <link href="welcome/page/page"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
 </feed>

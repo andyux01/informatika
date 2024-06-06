@@ -61,5 +61,15 @@ bottom-text="...probably"
       <guid>item-6b6806ab-721a-4b12-a065-07916e301efe</guid>
       <pubDate>Thu, 06 Jun 2024 05:04:45 +0000</pubDate>
     </item>
+    <item>
+      <title>Page</title>
+      <link>welcome/page/page</link>
+      <description>
+          <![CDATA[ <p></p> ]]>
+      </description>
+      <category></category>
+      <guid>item-b649092c-471b-425d-ab21-458d2fb35211</guid>
+      <pubDate>Thu, 06 Jun 2024 05:04:57 +0000</pubDate>
+    </item>
   </channel>
 </rss>
