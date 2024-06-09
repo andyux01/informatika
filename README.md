@@ -36,4 +36,3 @@ https://github.com/elmsln/issues/issues or join the community on discord https:/
 
 ## License
 [Apache 2.0](LICENSE.md)
-"# informatika" 

@@ -39,28 +39,8 @@
 
 var precacheConfig = [
     [
-        "pages\/item-9f79442c-019d-464a-86a3-60bae4c01848\/index.html",
-        "1vYuxvfMu9chsTUrjCgTA"
-    ],
-    [
-        "pages\/item-6b6806ab-721a-4b12-a065-07916e301efe\/index.html",
-        "MarvXl8gr68LDj8y4TWA0g"
-    ],
-    [
-        "pages\/item-b649092c-471b-425d-ab21-458d2fb35211\/index.html",
-        "avuScokCKQBqrHTvw6qdA"
-    ],
-    [
-        "pages\/item-ca67bdf3-862c-455b-8880-0dde19dfd164\/index.html",
-        "ynQoLli9TUWFixVqrSQIg"
-    ],
-    [
-        "pages\/item-78f97024-eb3a-4894-a3a0-cbb1b6c4e9f8\/index.html",
-        "v64qt0pTMDRhZDGkwftGjg"
-    ],
-    [
-        "pages\/item-21a2545a-cc0a-4bf9-b30f-004c22db6547\/index.html",
-        "2P7qG3GY3MQeeq9xjYHCA"
+        "pages\/item-4853c1d0-1273-4efb-8e50-44b258814452\/index.html",
+        "9TBUywRejeBdIz15qOlGzQ"
     ],
     [
         "index.html",
@@ -96,19 +76,15 @@ var precacheConfig = [
     ],
     [
         "manifest.json",
-        "t8LBDILTDCUFZ8q9YPQ"
+        "HbJL2U4jbDzJYfICKXE9bA"
     ],
     [
         "site.json",
-        "wxCwCdjORKqviXAfTQjw"
+        "sn8cfapasbiHNZQumPdfQ"
     ],
     [
         "404.html",
         "0BBVAns5rLQLPevl6LRa9A"
-    ],
-    [
-        "files\/386096440.jpg",
-        "te6AxcpDesWzZrtRv25Ow"
     ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

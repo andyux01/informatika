@@ -1,194 +1,66 @@
 {
-    "id": "8917aee3-c3cb-428a-8263-0c1176e7b9e9",
-    "title": "informatika",
+    "id": "c61966e3-95da-4307-ae26-293b7fd9c949",
+    "title": "index",
     "author": "",
-    "description": "own course",
+    "description": "pressbooks import",
     "license": "by-sa",
     "metadata": {
-        "author": {
-            "image": "",
-            "name": "",
-            "email": "",
-            "socialLink": ""
-        },
+        "author": {},
         "site": {
-            "name": "informatika",
+            "name": "index",
             "logo": "assets\/banner.jpg",
             "settings": {
                 "lang": "en-US",
-                "publishPagesOn": true,
-                "pathauto": false,
-                "sw": false,
-                "forceUpgrade": false,
-                "gaID": ""
+                "publishPagesOn": true
             },
-            "created": 1717650138,
-            "updated": 1717683123,
+            "created": 1717687446,
+            "updated": 1717687446,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
-            },
-            "version": "9.0.0-alpha.0",
-            "domain": "",
-            "tags": "",
-            "static": {}
+            }
         },
         "theme": {
-            "element": "polaris-invent-theme",
-            "path": "@haxtheweb\/polaris-theme\/lib\/polaris-invent-theme.js",
-            "name": "Polaris - Invent",
-            "thumbnail": "build\/es6\/node_modules\/@haxtheweb\/app-hax\/lib\/assets\/images\/PartyStyle.svg",
+            "element": "clean-one",
+            "path": "@haxtheweb\/clean-one\/clean-one.js",
+            "name": "Clean course theme",
+            "thumbnail": "build\/es6\/node_modules\/@haxtheweb\/app-hax\/lib\/assets\/images\/BlueStyle.svg",
             "variables": {
-                "image": "",
-                "imageAlt": "",
-                "imageLink": "",
+                "icon": "av:subscriptions",
                 "hexCode": "#aeff00",
-                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
-                "icon": "av:fiber-manual-record"
-            },
-            "regions": {}
+                "cssVariable": "--simple-colors-default-theme-light-blue-7"
+            }
         },
         "node": {
             "fields": {}
         },
         "build": {
             "version": "9.0.0-alpha.0",
-            "structure": "course",
-            "type": "own"
+            "structure": "import",
+            "type": "pressbooks"
         }
     },
     "items": [
         {
-            "id": "item-9f79442c-019d-464a-86a3-60bae4c01848",
+            "id": "item-4853c1d0-1273-4efb-8e50-44b258814452",
             "indent": 0,
-            "location": "pages\/item-9f79442c-019d-464a-86a3-60bae4c01848\/index.html",
-            "slug": "welcome",
+            "location": "pages\/item-4853c1d0-1273-4efb-8e50-44b258814452\/index.html",
+            "slug": "loading",
             "order": 0,
             "parent": null,
-            "title": "Welcome to informatika",
-            "description": "",
+            "title": "Loading..",
+            "description": "    I bring you          the deathWhat is strawberry in SpanishfresaHow large can the average great white shark grow to be?The Great White shark can grow to be 15 ft to more than 20 ft in len",
             "metadata": {
-                "created": 1717650138,
-                "updated": 1717650138
-            }
-        },
-        {
-            "id": "item-6b6806ab-721a-4b12-a065-07916e301efe",
-            "indent": 0,
-            "location": "pages\/item-6b6806ab-721a-4b12-a065-07916e301efe\/index.html",
-            "slug": "welcome\/page",
-            "order": 0,
-            "parent": "item-9f79442c-019d-464a-86a3-60bae4c01848",
-            "title": "What is HAX?",
-            "description": "halamanBy the end of this lesson, you should be able to...\t\t\t\t\t\tone\t\t\ttwo\t\t\t\t\t\t\tthree\t\t\tfour\t\t\tWhat is strawberry in SpanishfresaHow large can the average great white shark grow to be",
-            "metadata": {
-                "created": 1717650285,
-                "updated": 1717684678,
-                "images": [
-                    "https:\/\/dummyimage.com\/300x200\/000\/fff"
-                ],
-                "videos": [],
+                "created": 1717687446,
+                "updated": 1717964911,
                 "published": true,
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 1,
-                "pageType": "lesson",
-                "relatedItems": "item-21a2545a-cc0a-4bf9-b30f-004c22db6547",
-                "tags": "ok",
-                "image": "https:\/\/cdn2.thecatapi.com\/images\/bjj.jpg",
-                "accentColor": "deep-orange",
-                "icon": "courseicons:strategy",
-                "files": [
-                    {
-                        "fullUrl": "\/sites\/informatika\/files\/386096440.jpg",
-                        "url": "files\/386096440.jpg",
-                        "type": "image\/jpeg",
-                        "name": "386096440.jpg",
-                        "size": 3886
-                    }
+                "videos": [],
+                "images": [
+                    "https:\/\/dummyimage.com\/300x200\/000\/fff"
                 ]
-            }
-        },
-        {
-            "id": "item-b649092c-471b-425d-ab21-458d2fb35211",
-            "indent": 0,
-            "location": "pages\/item-b649092c-471b-425d-ab21-458d2fb35211\/index.html",
-            "slug": "welcome\/page\/page",
-            "order": 0,
-            "parent": "item-6b6806ab-721a-4b12-a065-07916e301efe",
-            "title": "Page",
-            "description": "Select content to load",
-            "metadata": {
-                "created": 1717650297,
-                "updated": 1717685139,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-ca67bdf3-862c-455b-8880-0dde19dfd164",
-            "indent": 0,
-            "location": "pages\/item-ca67bdf3-862c-455b-8880-0dde19dfd164\/index.html",
-            "slug": "welcome\/page\/page-1",
-            "order": "1",
-            "parent": "item-6b6806ab-721a-4b12-a065-07916e301efe",
-            "title": "Page",
-            "description": "",
-            "metadata": {
-                "created": 1717650302,
-                "updated": 1717650302,
-                "images": [],
-                "videos": []
-            }
-        },
-        {
-            "id": "item-78f97024-eb3a-4894-a3a0-cbb1b6c4e9f8",
-            "indent": 0,
-            "location": "pages\/item-78f97024-eb3a-4894-a3a0-cbb1b6c4e9f8\/index.html",
-            "slug": "welcome\/page\/page-copy",
-            "order": "1",
-            "parent": "item-6b6806ab-721a-4b12-a065-07916e301efe",
-            "title": "Page Copy",
-            "description": "",
-            "metadata": {
-                "created": 1717684864,
-                "updated": 1717684864,
-                "images": [],
-                "videos": []
-            }
-        },
-        {
-            "id": "item-21a2545a-cc0a-4bf9-b30f-004c22db6547",
-            "indent": 0,
-            "location": "pages\/item-21a2545a-cc0a-4bf9-b30f-004c22db6547\/index.html",
-            "slug": "welcome\/page-1",
-            "order": 1,
-            "parent": "item-9f79442c-019d-464a-86a3-60bae4c01848",
-            "title": "Tutorials",
-            "description": "ini adalah tutorial",
-            "metadata": {
-                "created": 1717650305,
-                "updated": 1717684215,
-                "images": [],
-                "videos": [],
-                "theme": {
-                    "element": "training-theme",
-                    "path": "@haxtheweb\/training-theme\/training-theme.js",
-                    "name": "Training theme",
-                    "thumbnail": "build\/es6\/node_modules\/@haxtheweb\/app-hax\/lib\/assets\/images\/PartyStyle.svg",
-                    "key": "training-theme"
-                },
-                "published": true,
-                "hideInMenu": false,
-                "tags": "tutorial",
-                "accentColor": "grey",
-                "icon": "av:airplay",
-                "locked": false,
-                "readtime": 1
             }
         }
     ]

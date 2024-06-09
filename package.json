@@ -1,7 +1,7 @@
 {
-  "name": "informatika",
+  "name": "index",
   "version": "9.0.0-alpha.0",
-  "description": "own course",
+  "description": "",
   "main": "index.html",
   "repository": {
     "type": "git",
