@@ -6,7 +6,7 @@ var fname = "wc-registry.json";
 window.WCGlobalRegistryFileName && (fname = window.WCGlobalRegistryFileName),
   (window.WCAutoloadRegistryFile = cdn + fname);
 var autoloaderScriptLocation =
-  "build/es6/node_modules/@haxtheweb/wc-autoload/wc-autoload.js";
+  "build/es6/node_modules/@lrnwebcomponents/wc-autoload/wc-autoload.js";
 try {
   var def = document.getElementsByTagName("script")[0];
   new Function("import('');"), animationPolyfillTest();
