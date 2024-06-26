@@ -12,7 +12,10 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@haxtheweb/haxcms-elements": "^9.0.0-alpha.0"
+    "@lrnwebcomponents/haxcms-elements": "^9.0.0-alpha.0",
+    "@lrnwebcomponents/dynamic-import-registry": "^9.0.0-alpha.0",
+    "@lrnwebcomponents/wc-autoload": "^9.0.0-alpha.0"
+    
   },
   "private": false,
   "publishConfig": {
